@@ -11,4 +11,4 @@ This application employed HTML, CSS, and JavaScript components. The HTML documen
 
 ## Project URLS
 - Deployed Site: https://nguyensang0323.github.io/Work-Day-Scheduler/
-- GitHub Repository: 
+- GitHub Repository: https://github.com/nguyensang0323/Work-Day-Scheduler
