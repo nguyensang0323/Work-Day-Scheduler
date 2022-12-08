@@ -7,3 +7,8 @@ This application employed HTML, CSS, and JavaScript components. The HTML documen
 - Fetches the stored data for the time blocks even when page is refreshed.
 - Compares the current time with the time blocks to color-code whether the time block is past, present, or future.
 ## Snapshot of Deployed Site
+<img width="1500" alt="Screenshot 2022-12-07 at 10 48 46 PM" src="https://user-images.githubusercontent.com/114970297/206383900-306ba255-2a73-4556-bbbc-70eb1cbb0c55.png">
+
+## Project URLS
+- Deployed Site:
+- GitHub Repository: 
