@@ -10,5 +10,5 @@ This application employed HTML, CSS, and JavaScript components. The HTML documen
 <img width="1500" alt="Screenshot 2022-12-07 at 10 48 46 PM" src="https://user-images.githubusercontent.com/114970297/206383900-306ba255-2a73-4556-bbbc-70eb1cbb0c55.png">
 
 ## Project URLS
-- Deployed Site:
+- Deployed Site: https://nguyensang0323.github.io/Work-Day-Scheduler/
 - GitHub Repository: 
